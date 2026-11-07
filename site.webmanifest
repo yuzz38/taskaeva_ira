@@ -1,0 +1,13 @@
+{
+  "name": "Ира Таскаева — ведущая в Анапе",
+  "short_name": "Ира Таскаева",
+  "lang": "ru",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#140d0f",
+  "theme_color": "#140d0f",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "assets/img/ira-white-480.jpg", "sizes": "480x480", "type": "image/jpeg" }
+  ]
+}

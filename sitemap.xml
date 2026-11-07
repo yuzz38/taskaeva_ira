@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://taskaeva-ira.ru/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://taskaeva-ira.ru/assets/img/ira-red-mic-960.jpg</image:loc><image:title>Ира Таскаева — ведущая в Анапе</image:title></image:image>
+    <image:image><image:loc>https://taskaeva-ira.ru/assets/img/ira-green-960.jpg</image:loc><image:title>Ведущая на праздник в Анапе</image:title></image:image>
+    <image:image><image:loc>https://taskaeva-ira.ru/assets/img/ira-evening-960.jpg</image:loc><image:title>Ира Таскаева, ведущая и турагент</image:title></image:image>
+  </url>
+</urlset>
